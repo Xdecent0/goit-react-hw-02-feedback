@@ -1,0 +1,14 @@
+.button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 6px 22px;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: rgba(34, 31, 31, 0.726);
+  background-color: rgb(202, 226, 68);
+}
+
+.button:not(:last-child) {
+  margin-right: 10px;
+}
